@@ -1,0 +1,7 @@
+name: CoreUtilitiesPlus
+version: '0.1'
+main: com.trynocs.coreUtilitiesPlus.CoreUtilitiesPlus
+api-version: '1.21'
+load: STARTUP
+authors: [ Trynocs ]
+website: trynocs.com
